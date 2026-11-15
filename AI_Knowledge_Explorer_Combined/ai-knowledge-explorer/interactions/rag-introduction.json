@@ -1,0 +1,24 @@
+{
+  "id": "rag-introduction",
+  "article_id": "rag-introduction",
+  "type": "step-flow",
+  "title": "RAG 的四個步驟",
+  "steps": [
+    {
+      "title": "提出問題",
+      "description": "使用者詢問「學校的選課規定是什麼？」"
+    },
+    {
+      "title": "檢索資料",
+      "description": "系統從文件集中搜尋與選課相關的內容。"
+    },
+    {
+      "title": "提供參考",
+      "description": "將相關段落與使用者問題一起提供給模型。"
+    },
+    {
+      "title": "產生回答",
+      "description": "模型根據參考內容回答，並可附來源供查證。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ai-agent",
+  "article_id": "ai-agent",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "ai-agent-q1",
+      "article_id": "ai-agent",
+      "version": 1,
+      "question": "AI Agent 常見的特色為何？",
+      "options": [
+        "只能播放音樂",
+        "可依目標使用工具並檢查結果",
+        "只能顯示圖片",
+        "不會犯錯"
+      ],
+      "answer": 1,
+      "explanation": "AI Agent 通常結合目標、工具使用與回饋。"
+    },
+    {
+      "question_id": "ai-agent-q2",
+      "article_id": "ai-agent",
+      "version": 1,
+      "question": "Agent 使用外部工具時重要的是？",
+      "options": [
+        "不設定權限",
+        "完全不檢查",
+        "權限控管與結果驗證",
+        "永遠允許所有操作"
+      ],
+      "answer": 2,
+      "explanation": "授權與檢查可降低不當操作的風險。"
+    },
+    {
+      "question_id": "ai-agent-q3",
+      "article_id": "ai-agent",
+      "version": 1,
+      "question": "AI Agent 與固定工作流程的常見差異？",
+      "options": [
+        "可能動態決定部分步驟",
+        "Agent 一定不需要模型",
+        "固定流程一定更危險",
+        "兩者完全一樣"
+      ],
+      "answer": 0,
+      "explanation": "Agent 通常更常依情況動態決策。"
+    }
+  ]
+}

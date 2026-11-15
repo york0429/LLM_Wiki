@@ -1,0 +1,9 @@
+{
+  "id": "example-topic",
+  "article_id": "example-topic",
+  "type": "comparison",
+  "title": "情境 A 與情境 B",
+  "option_a": {"label": "情境 A", "description": "第一種情境的差異。"},
+  "option_b": {"label": "情境 B", "description": "第二種情境的差異。"},
+  "conclusion": "對照後的重點結論。"
+}

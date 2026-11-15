@@ -1,0 +1,49 @@
+{
+  "id": "rag-introduction",
+  "article_id": "rag-introduction",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "rag-introduction-q1",
+      "article_id": "rag-introduction",
+      "version": 1,
+      "question": "RAG 最主要結合哪兩件事？",
+      "options": [
+        "畫圖與錄影",
+        "資料檢索與語言生成",
+        "列印與掃描",
+        "音量與亮度"
+      ],
+      "answer": 1,
+      "explanation": "RAG 在生成回答前檢索相關外部資料。"
+    },
+    {
+      "question_id": "rag-introduction-q2",
+      "article_id": "rag-introduction",
+      "version": 1,
+      "question": "RAG 一定能保證回答正確嗎？",
+      "options": [
+        "不能，來源或生成仍可能出錯",
+        "一定能",
+        "只要有網路就一定能",
+        "不需要文件"
+      ],
+      "answer": 0,
+      "explanation": "RAG 仍取決於檢索與生成品質。"
+    },
+    {
+      "question_id": "rag-introduction-q3",
+      "article_id": "rag-introduction",
+      "version": 1,
+      "question": "哪個情境適合 RAG？",
+      "options": [
+        "調整螢幕亮度",
+        "更換鍵盤",
+        "依據校方文件回答選課問題",
+        "替手機充電"
+      ],
+      "answer": 2,
+      "explanation": "RAG 擅長需要參照外部文件的知識問答。"
+    }
+  ]
+}

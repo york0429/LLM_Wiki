@@ -1,0 +1,15 @@
+{
+  "id": "prompt-engineering",
+  "article_id": "prompt-engineering",
+  "type": "comparison",
+  "title": "兩種 Prompt 寫法",
+  "option_a": {
+    "label": "模糊指令",
+    "description": "「介紹人工智慧。」缺少對象、長度和預期格式。"
+  },
+  "option_b": {
+    "label": "清楚指令",
+    "description": "「用繁體中文、兩個生活例子，寫約 150 字介紹 AI，最後列出三個重點。」"
+  },
+  "conclusion": "清楚的指令有助模型掌握需求，但仍需要評估內容正確性。"
+}

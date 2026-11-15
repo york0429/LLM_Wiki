@@ -1,0 +1,49 @@
+{
+  "id": "ai-introduction",
+  "article_id": "ai-introduction",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "ai-introduction-q1",
+      "article_id": "ai-introduction",
+      "version": 1,
+      "question": "以下哪一項最貼近人工智慧的定義？",
+      "options": [
+        "只能儲存檔案的電腦",
+        "讓電腦執行某些需要智慧的任務",
+        "每台電腦都有的作業系統",
+        "一定具有自我意識的機器"
+      ],
+      "answer": 1,
+      "explanation": "AI 是技術領域，不要求系統擁有自我意識。"
+    },
+    {
+      "question_id": "ai-introduction-q2",
+      "article_id": "ai-introduction",
+      "version": 1,
+      "question": "哪個例子可能用到 AI？",
+      "options": [
+        "推薦影片",
+        "更換滑鼠電池",
+        "關閉電源",
+        "插上網路線"
+      ],
+      "answer": 0,
+      "explanation": "推薦系統可能學習使用者偏好來排序內容。"
+    },
+    {
+      "question_id": "ai-introduction-q3",
+      "article_id": "ai-introduction",
+      "version": 1,
+      "question": "關於 AI，哪個說法較恰當？",
+      "options": [
+        "任何輸出都正確",
+        "只能製作圖片",
+        "可能需要測試及人類監督",
+        "AI 就是機器人外殼"
+      ],
+      "answer": 2,
+      "explanation": "模型有錯誤風險，應以測試與監督確認使用效果。"
+    }
+  ]
+}

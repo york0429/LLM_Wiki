@@ -1,0 +1,8 @@
+{
+  "id": "ai-privacy",
+  "article_id": "ai-privacy",
+  "type": "flashcard",
+  "question": "將真實學號和電話貼給 AI 前，最適合先做什麼？",
+  "answer": "先確認是否真的需要這些資料；通常可以刪除或改成範例資料。",
+  "explanation": "資料最小化可以減少不必要的個人資訊暴露。"
+}

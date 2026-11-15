@@ -1,0 +1,49 @@
+{
+  "id": "machine-learning",
+  "article_id": "machine-learning",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "machine-learning-q1",
+      "article_id": "machine-learning",
+      "version": 1,
+      "question": "深度學習和機器學習的關係為何？",
+      "options": [
+        "完全無關",
+        "深度學習包含所有 AI",
+        "深度學習是機器學習的一部分",
+        "兩者都是作業系統"
+      ],
+      "answer": 2,
+      "explanation": "深度學習是機器學習的分支。"
+    },
+    {
+      "question_id": "machine-learning-q2",
+      "article_id": "machine-learning",
+      "version": 1,
+      "question": "哪一種技術常以多層神經網路為核心？",
+      "options": [
+        "深度學習",
+        "電子郵件協定",
+        "資料備份",
+        "檔案壓縮"
+      ],
+      "answer": 0,
+      "explanation": "深度學習常使用具有多層結構的神經網路。"
+    },
+    {
+      "question_id": "machine-learning-q3",
+      "article_id": "machine-learning",
+      "version": 1,
+      "question": "選擇機器學習方法時，重要的是？",
+      "options": [
+        "只選名字最新的",
+        "考量資料與任務需求",
+        "永遠使用最大模型",
+        "不需要測試"
+      ],
+      "answer": 1,
+      "explanation": "模型應符合任務、資料與評估需求。"
+    }
+  ]
+}

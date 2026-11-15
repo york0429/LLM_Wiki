@@ -1,0 +1,49 @@
+{
+  "id": "ai-privacy",
+  "article_id": "ai-privacy",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "ai-privacy-q1",
+      "article_id": "ai-privacy",
+      "version": 1,
+      "question": "將個人資料交給 AI 前，較好的做法是？",
+      "options": [
+        "全部照貼",
+        "確認必要性並刪除無關個資",
+        "完全不看平台政策",
+        "分享所有密碼"
+      ],
+      "answer": 1,
+      "explanation": "只使用必要資料有助降低風險。"
+    },
+    {
+      "question_id": "ai-privacy-q2",
+      "article_id": "ai-privacy",
+      "version": 1,
+      "question": "哪項屬於可能敏感的內容？",
+      "options": [
+        "公開的天氣預報",
+        "一般的數學公式",
+        "未公開的帳號密碼",
+        "常見英文單字"
+      ],
+      "answer": 2,
+      "explanation": "帳號密碼等資訊不應隨意輸入外部工具。"
+    },
+    {
+      "question_id": "ai-privacy-q3",
+      "article_id": "ai-privacy",
+      "version": 1,
+      "question": "不同 AI 工具的資料保存方式？",
+      "options": [
+        "一定完全一樣",
+        "一定不保存",
+        "需要依各服務政策確認",
+        "一定可以公開分享"
+      ],
+      "answer": 2,
+      "explanation": "隱私政策與資料處理方式因服務而異。"
+    }
+  ]
+}

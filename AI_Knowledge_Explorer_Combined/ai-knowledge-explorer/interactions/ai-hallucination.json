@@ -1,0 +1,15 @@
+{
+  "id": "ai-hallucination",
+  "article_id": "ai-hallucination",
+  "type": "comparison",
+  "title": "如何看待 AI 回答？",
+  "option_a": {
+    "label": "直接相信",
+    "description": "看到有條理的答案就直接轉貼，可能把編造的事實當真。"
+  },
+  "option_b": {
+    "label": "交叉查證",
+    "description": "確認原始來源、日期、適用範圍，再使用重要資訊。"
+  },
+  "conclusion": "對學術、醫療、法律等重要資訊，更需要額外查核。"
+}

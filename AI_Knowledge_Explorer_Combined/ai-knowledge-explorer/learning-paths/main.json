@@ -1,0 +1,56 @@
+{
+  "id": "ai-beginner",
+  "title": "AI 初學者學習路線",
+  "stages": [
+    {
+      "id": "stage-1",
+      "number": 1,
+      "title": "認識人工智慧",
+      "description": "從 AI 的基本概念開始",
+      "article_ids": [
+        "ai-introduction",
+        "machine-learning"
+      ]
+    },
+    {
+      "id": "stage-2",
+      "number": 2,
+      "title": "生成式 AI 的世界",
+      "description": "認識生成內容與大型語言模型",
+      "article_ids": [
+        "generative-ai",
+        "llm-introduction"
+      ]
+    },
+    {
+      "id": "stage-3",
+      "number": 3,
+      "title": "AI 核心技術",
+      "description": "學習 Prompt 與 RAG 的方法",
+      "article_ids": [
+        "prompt-engineering",
+        "rag-introduction"
+      ]
+    },
+    {
+      "id": "stage-4",
+      "number": 4,
+      "title": "AI 工具與應用",
+      "description": "了解 Agent 與聊天機器人",
+      "article_ids": [
+        "ai-agent",
+        "ai-chatbot"
+      ]
+    },
+    {
+      "id": "stage-5",
+      "number": 5,
+      "title": "AI 安全與未來",
+      "description": "建立負責任的 AI 使用習慣",
+      "article_ids": [
+        "ai-hallucination",
+        "ai-privacy"
+      ]
+    }
+  ]
+}

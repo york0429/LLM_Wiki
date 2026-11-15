@@ -1,0 +1,20 @@
+AI 知識探索百科｜合併版開啟指南
+
+這份 ZIP 已包含：
+1. 完整網站專案（原始碼、AGENTS.md、README.md、Markdown 文章、互動與測驗資料）
+2. 不需要安裝程式的離線預覽（dist-local/）
+
+【直接查看網站】
+1. 將 ZIP 解壓縮。
+2. 進入 ai-knowledge-explorer 資料夾。
+3. 再進入 dist-local 資料夾。
+4. 用 Chrome 或 Edge 開啟 index.html。
+
+【想閱讀或修改專案】
+專案規則：ai-knowledge-explorer/AGENTS.md
+操作說明：ai-knowledge-explorer/README.md
+知識文章：ai-knowledge-explorer/wiki/
+網站程式：ai-knowledge-explorer/src/
+
+注意：離線預覽是已產生的成品。若有修改文章或程式，需重新建置才能在離線預覽看到更新。
+本版本未公開部署。

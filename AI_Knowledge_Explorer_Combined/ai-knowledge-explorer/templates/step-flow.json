@@ -1,0 +1,10 @@
+{
+  "id": "example-topic",
+  "article_id": "example-topic",
+  "type": "step-flow",
+  "title": "這項技術如何運作？",
+  "steps": [
+    {"title": "第一步", "description": "第一步的具體說明。"},
+    {"title": "第二步", "description": "第二步的具體說明。"}
+  ]
+}

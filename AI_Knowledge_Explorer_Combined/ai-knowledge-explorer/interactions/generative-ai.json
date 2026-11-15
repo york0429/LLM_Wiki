@@ -1,0 +1,8 @@
+{
+  "id": "generative-ai",
+  "article_id": "generative-ai",
+  "type": "flashcard",
+  "question": "生成式 AI 和一般分類模型最大的不同是什麼？",
+  "answer": "生成式 AI 能產生新的內容，例如文字或圖片。",
+  "explanation": "分類模型通常從既有選項做判斷；生成式模型則生成符合條件的輸出。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ai-agent",
+  "article_id": "ai-agent",
+  "type": "step-flow",
+  "title": "AI Agent 的循環",
+  "steps": [
+    {
+      "title": "接收目標",
+      "description": "例如「整理指定主題的公開資料」。"
+    },
+    {
+      "title": "規劃步驟",
+      "description": "依目標決定要找哪些資訊與使用哪些工具。"
+    },
+    {
+      "title": "執行工具",
+      "description": "在允許的權限內搜尋資料或處理文件。"
+    },
+    {
+      "title": "檢查結果",
+      "description": "檢查工具輸出是否符合目標與限制。"
+    },
+    {
+      "title": "完成或調整",
+      "description": "達到條件就完成，否則調整後繼續。"
+    }
+  ]
+}

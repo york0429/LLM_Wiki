@@ -1,0 +1,49 @@
+{
+  "id": "llm-introduction",
+  "article_id": "llm-introduction",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "llm-introduction-q1",
+      "article_id": "llm-introduction",
+      "version": 1,
+      "question": "LLM 的主要用途為何？",
+      "options": [
+        "處理與產生語言內容",
+        "替換實體硬碟",
+        "加速風扇運轉",
+        "只顯示圖片"
+      ],
+      "answer": 0,
+      "explanation": "LLM 在語言理解與生成相關任務上有廣泛應用。"
+    },
+    {
+      "question_id": "llm-introduction-q2",
+      "article_id": "llm-introduction",
+      "version": 1,
+      "question": "Token 是什麼？",
+      "options": [
+        "唯一的 AI 品牌",
+        "文字處理的單位",
+        "電腦螢幕尺寸",
+        "網路密碼"
+      ],
+      "answer": 1,
+      "explanation": "文字會轉換成 Token 供模型處理。"
+    },
+    {
+      "question_id": "llm-introduction-q3",
+      "article_id": "llm-introduction",
+      "version": 1,
+      "question": "對 LLM 回答的適當態度是？",
+      "options": [
+        "總是相信",
+        "不看來源就引用",
+        "重要資訊進一步查核",
+        "完全不能使用"
+      ],
+      "answer": 2,
+      "explanation": "LLM 可能出錯，重要事實需要查證。"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "llm-introduction",
+  "article_id": "llm-introduction",
+  "type": "step-flow",
+  "title": "LLM 如何產生文字？",
+  "steps": [
+    {
+      "title": "收到提示",
+      "description": "使用者提供問題、任務或上下文。"
+    },
+    {
+      "title": "轉成 Token",
+      "description": "文字被切分成模型可處理的單位。"
+    },
+    {
+      "title": "預測接續 Token",
+      "description": "模型依上下文估計下一個 Token 的可能性。"
+    },
+    {
+      "title": "逐步形成回覆",
+      "description": "反覆產生後續 Token，直到形成結果。"
+    }
+  ]
+}

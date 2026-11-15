@@ -1,0 +1,49 @@
+{
+  "id": "generative-ai",
+  "article_id": "generative-ai",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "generative-ai-q1",
+      "article_id": "generative-ai",
+      "version": 1,
+      "question": "哪一項是生成式 AI 常見用途？",
+      "options": [
+        "產生文章草稿",
+        "更換電腦電池",
+        "增加螢幕亮度",
+        "清理鍵盤"
+      ],
+      "answer": 0,
+      "explanation": "生成式 AI 可根據提示生成文字。"
+    },
+    {
+      "question_id": "generative-ai-q2",
+      "article_id": "generative-ai",
+      "version": 1,
+      "question": "生成式 AI 產出的文字一定正確嗎？",
+      "options": [
+        "一定",
+        "不一定，需要核對重要事實",
+        "只有英文才正確",
+        "無法產生文字"
+      ],
+      "answer": 1,
+      "explanation": "生成過程可能出現虛構或錯誤資訊。"
+    },
+    {
+      "question_id": "generative-ai-q3",
+      "article_id": "generative-ai",
+      "version": 1,
+      "question": "提示詞的角色是？",
+      "options": [
+        "取代硬碟",
+        "降低螢幕解析度",
+        "提供模型任務與上下文",
+        "永遠保證答案正確"
+      ],
+      "answer": 2,
+      "explanation": "提示詞會提供任務、條件與背景。"
+    }
+  ]
+}

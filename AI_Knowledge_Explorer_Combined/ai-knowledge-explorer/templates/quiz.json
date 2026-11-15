@@ -1,0 +1,10 @@
+{
+  "id": "example-topic",
+  "article_id": "example-topic",
+  "version": 1,
+  "questions": [
+    {"question_id": "example-topic-q1", "article_id": "example-topic", "version": 1, "question": "第一題問題？", "options": ["選項 A", "選項 B", "選項 C", "選項 D"], "answer": 0, "explanation": "正確答案的原因。"},
+    {"question_id": "example-topic-q2", "article_id": "example-topic", "version": 1, "question": "第二題問題？", "options": ["選項 A", "選項 B", "選項 C", "選項 D"], "answer": 1, "explanation": "正確答案的原因。"},
+    {"question_id": "example-topic-q3", "article_id": "example-topic", "version": 1, "question": "第三題問題？", "options": ["選項 A", "選項 B", "選項 C", "選項 D"], "answer": 2, "explanation": "正確答案的原因。"}
+  ]
+}

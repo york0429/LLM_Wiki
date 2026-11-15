@@ -1,0 +1,49 @@
+{
+  "id": "ai-chatbot",
+  "article_id": "ai-chatbot",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "ai-chatbot-q1",
+      "article_id": "ai-chatbot",
+      "version": 1,
+      "question": "所有聊天機器人都使用 LLM 嗎？",
+      "options": [
+        "是",
+        "不是，有些是規則式",
+        "只有電話裡的才有",
+        "只有英文聊天機器人才有"
+      ],
+      "answer": 1,
+      "explanation": "聊天機器人可以用規則或不同 AI 技術實作。"
+    },
+    {
+      "question_id": "ai-chatbot-q2",
+      "article_id": "ai-chatbot",
+      "version": 1,
+      "question": "規則式聊天機器人較適合？",
+      "options": [
+        "固定選單與流程",
+        "無限制開放式推理",
+        "自動保證所有事實",
+        "不需要任何設計"
+      ],
+      "answer": 0,
+      "explanation": "可預期的固定流程適合規則式實作。"
+    },
+    {
+      "question_id": "ai-chatbot-q3",
+      "article_id": "ai-chatbot",
+      "version": 1,
+      "question": "使用聊天機器人時需要注意？",
+      "options": [
+        "只要能聊天就安全",
+        "一定會記住所有內容",
+        "個資與回答正確性",
+        "不必檢查資訊"
+      ],
+      "answer": 2,
+      "explanation": "重要資訊與個人資料都應謹慎處理。"
+    }
+  ]
+}

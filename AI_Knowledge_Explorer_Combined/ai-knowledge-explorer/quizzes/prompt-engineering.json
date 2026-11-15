@@ -1,0 +1,49 @@
+{
+  "id": "prompt-engineering",
+  "article_id": "prompt-engineering",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "prompt-engineering-q1",
+      "article_id": "prompt-engineering",
+      "version": 1,
+      "question": "哪個提示較清楚？",
+      "options": [
+        "介紹一下",
+        "隨便寫",
+        "用繁體中文列出三個 AI 應用並各舉一例",
+        "你知道嗎"
+      ],
+      "answer": 2,
+      "explanation": "具體的語言、數量、內容與格式更容易執行。"
+    },
+    {
+      "question_id": "prompt-engineering-q2",
+      "article_id": "prompt-engineering",
+      "version": 1,
+      "question": "提示工程主要是在做什麼？",
+      "options": [
+        "設計與調整輸入指令",
+        "更換電腦零件",
+        "發明新鍵盤",
+        "保證答案永不出錯"
+      ],
+      "answer": 0,
+      "explanation": "提示工程改善與模型溝通的方式。"
+    },
+    {
+      "question_id": "prompt-engineering-q3",
+      "article_id": "prompt-engineering",
+      "version": 1,
+      "question": "模型回答不理想時，合理做法是？",
+      "options": [
+        "永遠不再使用",
+        "補充背景、範例或限制再調整",
+        "把字全部刪掉",
+        "直接視為事實"
+      ],
+      "answer": 1,
+      "explanation": "調整提示可改善方向，但仍應查核答案。"
+    }
+  ]
+}

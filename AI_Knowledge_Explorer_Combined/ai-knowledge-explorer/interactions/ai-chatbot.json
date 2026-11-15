@@ -1,0 +1,15 @@
+{
+  "id": "ai-chatbot",
+  "article_id": "ai-chatbot",
+  "type": "comparison",
+  "title": "兩種聊天機器人比較",
+  "option_a": {
+    "label": "規則式",
+    "description": "依預設選單或關鍵字回覆，對固定流程較可預期。"
+  },
+  "option_b": {
+    "label": "生成式 AI",
+    "description": "可根據自然語言生成較有彈性的回答，但可能出現錯誤。"
+  },
+  "conclusion": "選擇方式應取決於任務的彈性、風險與可控性。"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ai-knowledge-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "繁體中文 AI 互動學習百科與可持續維護的 LLM Wiki",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run check && vite build",
+    "preview": "vite preview",
+    "check": "node scripts/validate.mjs",
+    "index": "node scripts/generate-index.mjs",
+    "build:offline": "npm run check && node scripts/build-standalone.mjs"
+  },
+  "devDependencies": {
+    "vite": "^6.3.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ai-introduction",
+  "article_id": "ai-introduction",
+  "type": "flashcard",
+  "question": "AI 一定要像人類一樣思考嗎？",
+  "answer": "不需要。AI 可以在特定任務上表現出智能行為，並不代表具有與人相同的思考方式。",
+  "explanation": "辨識影像與預測文字都屬於 AI 應用，但運作機制可能非常不同。"
+}

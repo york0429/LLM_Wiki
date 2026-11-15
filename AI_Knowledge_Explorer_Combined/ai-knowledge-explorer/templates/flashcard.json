@@ -1,0 +1,8 @@
+{
+  "id": "example-topic",
+  "article_id": "example-topic",
+  "type": "flashcard",
+  "question": "這個概念的核心問題是什麼？",
+  "answer": "簡短而正確的答案。",
+  "explanation": "使用者翻卡後可讀到的補充說明。"
+}

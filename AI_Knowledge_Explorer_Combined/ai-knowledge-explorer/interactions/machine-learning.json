@@ -1,0 +1,15 @@
+{
+  "id": "machine-learning",
+  "article_id": "machine-learning",
+  "type": "comparison",
+  "title": "兩種學習方法比較",
+  "option_a": {
+    "label": "機器學習",
+    "description": "範圍較廣，包含決策樹、線性模型與神經網路等多種方法。"
+  },
+  "option_b": {
+    "label": "深度學習",
+    "description": "機器學習的分支，通常使用多層神經網路學習複雜模式。"
+  },
+  "conclusion": "深度學習不是 AI 的全部，也不代表一定比其他方法適合每個任務。"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ai-hallucination",
+  "article_id": "ai-hallucination",
+  "version": 1,
+  "questions": [
+    {
+      "question_id": "ai-hallucination-q1",
+      "article_id": "ai-hallucination",
+      "version": 1,
+      "question": "AI 幻覺指的是什麼？",
+      "options": [
+        "產生錯誤或缺乏依據的內容",
+        "螢幕閃爍",
+        "顯示器亮度過高",
+        "使用者做夢"
+      ],
+      "answer": 0,
+      "explanation": "幻覺指模型生成不正確或無根據的內容。"
+    },
+    {
+      "question_id": "ai-hallucination-q2",
+      "article_id": "ai-hallucination",
+      "version": 1,
+      "question": "模型列出論文網址後應該？",
+      "options": [
+        "直接相信",
+        "確認網址與論文是否真實存在",
+        "只看標題長度",
+        "忽略作者"
+      ],
+      "answer": 1,
+      "explanation": "形式看似專業不代表來源真的存在。"
+    },
+    {
+      "question_id": "ai-hallucination-q3",
+      "article_id": "ai-hallucination",
+      "version": 1,
+      "question": "哪個行為有助降低誤用錯誤資訊？",
+      "options": [
+        "只看一份 AI 答案",
+        "完全不看來源",
+        "核對可信來源",
+        "要求回答一定正確"
+      ],
+      "answer": 2,
+      "explanation": "交叉查證是重要的使用習慣。"
+    }
+  ]
+}
